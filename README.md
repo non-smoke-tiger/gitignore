@@ -1,0 +1,2 @@
+# gitignore
+ionic project. gitignore
